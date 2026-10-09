@@ -11,6 +11,11 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,git,visualstudio&amp;theme=dark" alt="C#, .NET, C++, Git, Visual Studio" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/emad-jaber">LinkedIn</a> ·
+  <a href="mailto:emadjbr2003@gmail.com">emadjbr2003@gmail.com</a>
+</p>
+
 ## About me
 
 I'm Emad, a developer focused on **backend development with .NET**. I work with C#, ASP.NET Core APIs, SQL Server, and ADO.NET, and have hands-on experience building Windows Forms applications.
