@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm Emad, a developer focused on **backend development with .NET**. I work with C#, ASP.NET Core APIs, SQL Server, and ADO.NET, and have hands-on experience building Windows Forms applications.
+I'm Emad, a **Computer Systems Engineering student**, with expected graduation in **February 2027**, and a developer focused on **backend development with .NET**. I work with C#, ASP.NET Core APIs, SQL Server, and ADO.NET, and have hands-on experience building Windows Forms applications.
 
 I started with C++ and spent time practicing algorithms, problem solving, OOP, and data structures before moving into C# and databases. I enjoy understanding how a system works, then turning that understanding into working software.
 
