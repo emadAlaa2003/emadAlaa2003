@@ -1,39 +1,62 @@
-# Emad Jaber
+<p align="center">
+  <img src="./assets/header.svg" alt="Hi, I'm Emad Jaber — .NET Backend Developer" width="100%" />
+</p>
 
-Software developer working with **C# / .NET** and **Java / Android**.
+<p align="center">
+  <b>C# · ASP.NET Core · SQL Server</b><br />
+  Building on a foundation in C++, problem solving, and object-oriented programming.
+</p>
 
-I build desktop and mobile applications connected to APIs and SQL databases. My current work is a graduation project that brings together licensing workflows, citizen services, and document-based AI.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,git,visualstudio&amp;theme=dark" alt="C#, .NET, C++, Git, Visual Studio" />
+</p>
 
-## Featured projects
+## About me
 
-### [DVLD — Driver & Vehicle Licensing Department](https://github.com/emadAlaa2003/DVLD_GraduationProject)
+I'm Emad, a developer focused on **backend development with .NET**. I work with C#, ASP.NET Core APIs, SQL Server, and ADO.NET, and have hands-on experience building Windows Forms applications.
 
-A team graduation project with a Windows Forms application for staff, an Android application for citizens, and a shared ASP.NET Core API.
+I started with C++ and spent time practicing algorithms, problem solving, OOP, and data structures before moving into C# and databases. I enjoy understanding how a system works, then turning that understanding into working software.
 
-- Licensing applications, appointments, and local and international licences.
-- Citizen authentication and access to personal records.
-- A PDF-based knowledge assistant and background question generation for a reviewed question bank.
+> Understand the fundamentals. Build something useful. Keep improving.
 
-**Built with:** C# · WinForms · ASP.NET Core · SQL Server · Java · Android · Ollama · Qdrant
+## My learning path
 
-### [AceIT — Study Organizer](https://github.com/emadAlaa2003/AceItApp)
+I studied with **[Programming Advices](https://www.programmingadvices.com/)**, led by **Mohammed Abu-Hadhoud**, and have completed **courses 01–20** of the programming foundations roadmap, through **C# Level 2**.
 
-An Android application for organizing homework and exams. Students can create and update tasks, mark them as completed, and filter completed work by type.
+That journey covered:
 
-**Built with:** Java · Android SDK · XML layouts
+- Programming foundations, C++, algorithms, and problem solving.
+- Object-oriented programming and foundational data structures.
+- C#, SQL, database design practice, and ADO.NET.
+- Building a complete desktop project and connecting its layers to a database.
 
-## Technologies I work with
+## Technologies I use
 
-| Area | Technologies |
+| Focus | Technologies |
 |---|---|
-| Desktop & backend | C#, .NET, Windows Forms, ASP.NET Core, REST APIs |
-| Mobile | Java, Android SDK, Retrofit, OkHttp |
-| Data | SQL Server, ADO.NET |
-| Document AI | Ollama, Qdrant, retrieval-augmented generation |
-| Development tools | Git, GitHub, Visual Studio, Android Studio |
+| Backend | C#, .NET, ASP.NET Core, REST APIs |
+| Databases | SQL Server, SQL, ADO.NET |
+| Desktop | Windows Forms |
+| Programming foundations | C++, OOP, algorithms, data structures |
+| Tools | Git, GitHub, Visual Studio |
 
-## Current focus
+## Featured work
 
-Building the DVLD citizen application, connecting it to the backend, and improving the project through testing and documentation.
+### [DVLD — Graduation Project](https://github.com/emadAlaa2003/DVLD_GraduationProject)
 
-[Explore my repositories](https://github.com/emadAlaa2003?tab=repositories)
+A team graduation project built around driver and vehicle licensing workflows. It extends the DVLD desktop project from my learning path with an ASP.NET Core API, citizen services, and document-based AI features.
+
+My work includes backend and desktop development, database integration, and features for document processing, question generation, and a knowledge assistant using **Ollama** and **Qdrant**.
+
+The project brings together **C# / WinForms**, **ASP.NET Core**, **SQL Server**, and an **Android citizen application**. It is an ongoing academic project.
+
+### University Android projects
+
+I also use **Java and Android** for university coursework, including [AceIT](https://github.com/emadAlaa2003/AceItApp), a study organizer, and the citizen application in DVLD. These repositories represent learning and project work at different stages of completion; my main focus remains .NET backend development.
+
+---
+
+<p align="center">
+  Learning with purpose, building with care.<br />
+  <a href="https://github.com/emadAlaa2003?tab=repositories">Explore my repositories</a>
+</p>
