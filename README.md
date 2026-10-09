@@ -51,7 +51,7 @@ That journey covered:
 
 A team graduation project built around driver and vehicle licensing workflows. It extends the DVLD desktop project from my learning path with an ASP.NET Core API, citizen services, and document-based AI features.
 
-My work includes backend and desktop development, database integration, and features for document processing, question generation, and a knowledge assistant using **Ollama** and **Qdrant**.
+I led the team and developed the **Windows Forms desktop application**, the **ASP.NET Core backend API**, and the **Android citizen application**. My work also includes database integration, document processing, background question generation, and a knowledge assistant using **Ollama** and **Qdrant**.
 
 The project brings together **C# / WinForms**, **ASP.NET Core**, **SQL Server**, and an **Android citizen application**. It is an ongoing academic project.
 
