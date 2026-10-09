@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Emad Jaber — .NET Backend Developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151b35"/><stop offset=".55" stop-color="#263257"/><stop offset="1" stop-color="#125358"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".04"/></pattern></defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/><rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<circle cx="1100" cy="50" r="180" fill="#64e0cd" opacity=".045"/><path d="M0 285 Q350 235 680 286 T1200 275 V320 H0Z" fill="#10172b" opacity=".5"/>
+<rect x="68" y="64" width="48" height="5" rx="2" fill="#6ce4d0"/>
+<text x="68" y="132" fill="#f4f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Hi, I'm Emad Jaber</text>
+<text x="70" y="184" fill="#6ce4d0" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">.NET Backend Developer</text>
+<text x="70" y="235" fill="#c3ccdf" font-family="Segoe UI,Arial,sans-serif" font-size="19">Strong foundations. Practical projects. Continuous learning.</text>
+<text x="980" y="187" fill="#83b9ce" opacity=".35" font-family="Consolas,monospace" font-size="98">{ }</text>
+</svg>
